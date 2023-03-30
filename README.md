@@ -1,1 +1,1 @@
-# Quiz
+/// <reference types="../@types/jquery" />
